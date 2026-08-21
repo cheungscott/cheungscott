@@ -12,7 +12,7 @@ Computer Science at King's College London. I write TypeScript for voice AI, and 
 
 - 3rd of 74 at ElevenHacks #5 Kiro - judged by ElevenLabs and AWS Kiro - $2,000 prize
 - Shipped Vouch at ElevenHacks #9 Stripe - voice-recorded escrow
-- Second-year MSci Computer Science at KCL
+- Third-year MSci Computer Science at KCL
 
 **Languages:** TypeScript · Python · C++ · React
 
