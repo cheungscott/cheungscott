@@ -7,6 +7,7 @@ Computer Science at King's College London. I write TypeScript for voice AI, and 
 - **Hearsay** - voice-bluffing card game on ElevenLabs, 5 APIs, hybrid LLM + deterministic brain
 - **Vouch** - voice-recorded escrow for freelancers and high-value P2P sales, built on Stripe + ElevenLabs
 - **Matching engine** - C++23 price-time-priority order book, lock-free SPSC ring + intrusive lists
+
 **Background:**
 
 - 3rd of 74 at ElevenHacks #5 Kiro - judged by ElevenLabs and AWS Kiro - $2,000 prize
