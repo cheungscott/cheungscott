@@ -1,19 +1,20 @@
 # Hi, I'm Scott
 
-Computer Science at King's College London. I write TypeScript for voice AI, and C++ for a low-latency matching engine shipping in July.
+I'm a third-year MSci Computer Science student at King's College London. I write TypeScript for voice AI and C++ for a low-latency matching engine.
 
 **Projects I'm working on:**
 
-- **Hearsay** - voice-bluffing card game on ElevenLabs, 5 APIs, hybrid LLM + deterministic brain
-- **Vouch** - voice-recorded escrow for freelancers and high-value P2P sales, built on Stripe + ElevenLabs
-- **Matching engine** - C++23 price-time-priority order book, lock-free SPSC ring + intrusive lists
+- **Hearsay** - a voice-bluffing card game on ElevenLabs, using 5 APIs and a hybrid of LLM and deterministic decision logic.
+- **Vouch** - voice-recorded escrow for freelancers and high-value P2P sales, built on Stripe and ElevenLabs.
+- **Matching engine** - a C++23 price-time-priority order book with an allocation-free hot path and intrusive lists.
 
 **Background:**
 
-- 3rd of 74 at ElevenHacks #5 Kiro - judged by ElevenLabs and AWS Kiro - $2,000 prize
-- Shipped Vouch at ElevenHacks #9 Stripe - voice-recorded escrow
-- Third-year MSci Computer Science at KCL
+- Placed 3rd of 74 at ElevenHacks #5 Kiro, judged by ElevenLabs and AWS Kiro, with a $2,000 prize.
+- Shipped Vouch at ElevenHacks #9 Stripe.
 
-**Languages:** TypeScript · Python · C++ · React
+**Languages:**
+
+TypeScript, Python and C++, plus React.
 
 [cheungsk.com](https://cheungsk.com) · [LinkedIn](https://linkedin.com/in/cheungsk)
